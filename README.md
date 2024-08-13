@@ -1,3 +1,3 @@
 ### FOODBASK
 
-creating a food service app with taildwind css
+creating a food service recipe app with taildwind css
